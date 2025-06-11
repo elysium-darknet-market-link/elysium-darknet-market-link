@@ -49,3 +49,5 @@ http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion
 ---
 
 *Note: This link directory is for educational purposes only.*
+
+Update: Download URLs
