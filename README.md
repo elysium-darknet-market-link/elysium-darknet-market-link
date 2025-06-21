@@ -56,4 +56,6 @@ http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion
 
 
 
-Update: Fixed broken url, now reachable
+
+
+Update:  21 June Link is now functioning and clickable
